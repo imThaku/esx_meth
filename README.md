@@ -22,6 +22,7 @@ Https://github.com/indilo53/fivem-es_extended
 
 3) Executé "esx_methjob.sql" dans gta5_gamemode_essential
 
+4) Pour modifier les coordonnée des lieux de récolte/traitement ===> modifier le fichier config.lua
 
 
 
